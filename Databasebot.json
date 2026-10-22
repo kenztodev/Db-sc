@@ -1,3 +1,4 @@
-module.exports =[
-  "8921491149:AAFJu-Kv332a_sfhlWJzmPfKMniVUTaqnRA",
+module.exports = [
+  "123456789:AAExampleBotPertama",
+  "987654321:AAExampleBotKedua"
 ];
